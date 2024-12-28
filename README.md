@@ -31,3 +31,9 @@ The score is updated based on the user's performance.
 **Final Score Display:**
 
 After all questions have been answered, the user's total score is displayed.
+
+### output screen
+![7](https://github.com/user-attachments/assets/9cf783af-b506-43b5-8389-107be0333656)
+![Screenshot (6)](https://github.com/user-attachments/assets/fc44dff6-3091-4c05-b660-2ae10fc873ea)
+
+
