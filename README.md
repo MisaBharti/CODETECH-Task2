@@ -15,6 +15,7 @@
   To create a program that contains some simple quiz questions with multiple choice options. These questions are presented to the users and the user answers the questions. This game keeps a track of the user's score and provide feedback based on their answers.
 ### Programming language used: C++
 ### Explanation of the Code
+
 **Struct Definition:**
 
 A Question struct is defined to hold the question text, a list of options, and the index of the correct answer.
